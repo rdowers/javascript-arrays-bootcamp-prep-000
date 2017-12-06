@@ -60,4 +60,8 @@ function destructivelyRemoveElementFromEndOfArray(array) {
 
 function removeElementFromEndOfArray(array) {
   return array.slice(0,array.length - 1);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e7d049b963e6ce790aa516212e6f46fcd8938686
